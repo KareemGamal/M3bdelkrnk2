@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@color/colorAccent"
+    android:id="@+id/cs"
+    android:layout_width="180dp"
+    android:layout_height="185dp">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/cv"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="8dp"
+        android:layout_width="164dp"
+        app:cardCornerRadius="10dp"
+        android:layout_height="175dp"
+        android:background="@color/colorAccent"
+        app:cardBackgroundColor="?attr/colorPrimaryDark">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                app:srcCompat="@drawable/back"
+                android:id="@+id/imageView3"
+                android:layout_width="match_parent"
+                android:scaleType="fitXY"
+                android:layout_height="155dp" />
+
+            <TextView
+                android:text="معبد الكرنك(امون رع الكبير)"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/textView"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+</android.support.constraint.ConstraintLayout>

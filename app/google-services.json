@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "563621305923",
+    "firebase_url": "https://m3bdelkrnk.firebaseio.com",
+    "project_id": "m3bdelkrnk",
+    "storage_bucket": "m3bdelkrnk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563621305923:android:1b71456126a19adf",
+        "android_client_info": {
+          "package_name": "magd.com.m3bdelkrnk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563621305923-psloqq0lj0u77s4ih1ioa7r44rk0parr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQc-PexnR-sKJ6pLqj319F7aT5pDQAGfw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563621305923:android:4ef9ea2c7fa8a6ad",
+        "android_client_info": {
+          "package_name": "com.magdsoft.m3bdelkrnk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563621305923-psloqq0lj0u77s4ih1ioa7r44rk0parr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQc-PexnR-sKJ6pLqj319F7aT5pDQAGfw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
